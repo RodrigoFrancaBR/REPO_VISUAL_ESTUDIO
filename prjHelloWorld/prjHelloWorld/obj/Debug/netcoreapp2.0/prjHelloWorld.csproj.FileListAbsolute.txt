@@ -1,0 +1,11 @@
+C:\GitHub\REPO_VISUAL_ESTUDIO\prjHelloWorld\prjHelloWorld\bin\Debug\netcoreapp2.0\prjHelloWorld.deps.json
+C:\GitHub\REPO_VISUAL_ESTUDIO\prjHelloWorld\prjHelloWorld\bin\Debug\netcoreapp2.0\prjHelloWorld.runtimeconfig.json
+C:\GitHub\REPO_VISUAL_ESTUDIO\prjHelloWorld\prjHelloWorld\bin\Debug\netcoreapp2.0\prjHelloWorld.runtimeconfig.dev.json
+C:\GitHub\REPO_VISUAL_ESTUDIO\prjHelloWorld\prjHelloWorld\bin\Debug\netcoreapp2.0\prjHelloWorld.dll
+C:\GitHub\REPO_VISUAL_ESTUDIO\prjHelloWorld\prjHelloWorld\bin\Debug\netcoreapp2.0\prjHelloWorld.pdb
+C:\GitHub\REPO_VISUAL_ESTUDIO\prjHelloWorld\prjHelloWorld\obj\Debug\netcoreapp2.0\prjHelloWorld.csprojResolveAssemblyReference.cache
+C:\GitHub\REPO_VISUAL_ESTUDIO\prjHelloWorld\prjHelloWorld\obj\Debug\netcoreapp2.0\prjHelloWorld.csproj.CoreCompileInputs.cache
+C:\GitHub\REPO_VISUAL_ESTUDIO\prjHelloWorld\prjHelloWorld\obj\Debug\netcoreapp2.0\prjHelloWorld.AssemblyInfoInputs.cache
+C:\GitHub\REPO_VISUAL_ESTUDIO\prjHelloWorld\prjHelloWorld\obj\Debug\netcoreapp2.0\prjHelloWorld.AssemblyInfo.cs
+C:\GitHub\REPO_VISUAL_ESTUDIO\prjHelloWorld\prjHelloWorld\obj\Debug\netcoreapp2.0\prjHelloWorld.dll
+C:\GitHub\REPO_VISUAL_ESTUDIO\prjHelloWorld\prjHelloWorld\obj\Debug\netcoreapp2.0\prjHelloWorld.pdb
